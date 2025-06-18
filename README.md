@@ -7,11 +7,12 @@
 ---
 
 ## 🔍 Interests & Goals
-- Embedded Firmware Development using PIC Microcontrollers  
-- Linux Kernel Module Programming  
+- Embedded Firmware Development  
+- System level Programming  
 - Device Drivers
 - Wi-Fi Technologies  
-- EV and Power Electronics System Integration  
+- Analog and Digital systems
+- EVs and Power Electronics System Integration  
 
 ---
 
