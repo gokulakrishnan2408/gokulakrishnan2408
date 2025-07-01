@@ -10,7 +10,7 @@
 - Embedded Firmware Development  
 - System level Programming  
 - Device Drivers
-- Wi-Fi Technologies  
+- VLSI 
 - Analog and Digital systems
 - EVs and Power Electronics System Integration  
 
