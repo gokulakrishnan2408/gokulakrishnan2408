@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gokula Krishnan R
 
-🎓 BE – EEE | Embedded Systems & Systems Software Enthusiast  
+🎓 BE – EEE | Embedded Systems,VLSI & Systems Software Enthusiast  
 🔧 Skilled in C, Embedded C, and Microcontroller Firmware, Analog/Digital systems
 🌱 Currently learning Linux Kernel Development, Device Drivers & Wireless technologies
 
